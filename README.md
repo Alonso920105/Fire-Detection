@@ -1,1 +1,2 @@
 # Fire-Detection
+Flame detection alarm integrates image recognition and machine learning technologies to swiftly and accurately detect fires by analyzing flame image features from video streams. Image recognition identifies the distinctive shapes and colors of flames, while machine learning algorithms are trained to differentiate fires from other light sources. Additionally, combining with an alarm enhances detection efficiency, providing timely alerts to effectively safeguard personnel and property.
